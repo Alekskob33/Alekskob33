@@ -4,7 +4,7 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekskob33&show_icons=true&theme=radical) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekskob33&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekskob33&layout=compact)](https://github.com/Alekskob33)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alekskob33&repo=rs-lang)](https://github.com/Alekskob33/rs-lang)
 
