@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-codewars-stats.herokuapp.com/api/?username=Alekskob33&card&colormode=bright_mode)](https://www.codewars.com/users/Alekskob33)
+[![Readme Card](https://github-readme-codewars-stats.herokuapp.com/api/?username=Alekskob33&card&colormode=bright_mode)](https://www.codewars.com/users/Alekskob33){:target="_blank"}
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekskob33&show_icons=true&theme=radical) -->
 
