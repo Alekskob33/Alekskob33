@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Codewars](https://github.r2v.ch/codewars?user=Alekskob33)
-![Codewars](https://github.r2v.ch/codewars?user=Alekskob33&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=Alekskob33&hide_clan=true)
 
 [![Readme Card](https://github-readme-codewars-stats.herokuapp.com/api/?username=Alekskob33&card&colormode=bright_mode)](https://www.codewars.com/users/Alekskob33)
 
