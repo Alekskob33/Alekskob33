@@ -1,15 +1,8 @@
-### Hi there 👋
+### 🌱
 
 ![Codewars](https://github.r2v.ch/codewars?user=Alekskob33&hide_clan=true)
 
-[![Readme Card](https://github-readme-codewars-stats.herokuapp.com/api/?username=Alekskob33&card&colormode=bright_mode)](https://www.codewars.com/users/Alekskob33)
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekskob33&show_icons=true&theme=radical) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekskob33&layout=compact)](https://github.com/Alekskob33)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alekskob33&repo=rs-lang)](https://github.com/Alekskob33/rs-lang)
-
 <!--
 **Alekskob33/Alekskob33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
