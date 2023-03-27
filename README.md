@@ -1,7 +1,10 @@
 ### 🌱
 
-![Codewars](https://github.r2v.ch/codewars?user=Alekskob33&hide_clan=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Alekskob33)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=Alekskob33&hide_clan=true&theme=dark&stroke=%23000000) -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekskob33&show_icons=true&theme=radical) -->
 <!--
 **Alekskob33/Alekskob33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
